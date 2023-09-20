@@ -216,7 +216,7 @@ html{
 }
 
 .pagination__active  .pagination-link:hover {
-    filter: brightness(95%);
+    filter: brightness(15%);
 }
 
 
